@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Rock Paper Scissor Game</title>
+
   </head>
   <body>
     <h1>Rock Paper Scissor Game</h1>
